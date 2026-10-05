@@ -1,5 +1,5 @@
 [project]
-name = "domain-event-base"
-version = "0.1.0"
-description = "领域事件基础校验"
+name = "culture-policy-coordination"
+version = "0.2.0"
+description = "文化政策依赖协调服务：版本化条款、真实依赖传播、双口径视图与发布前影响模拟"
 requires-python = ">=3.11"
